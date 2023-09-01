@@ -31,6 +31,7 @@ My name is Louis and I'm studying computer development at **EPITECH Paris** :
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" width="45" heigth="45" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" width="45" heigth="45" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="45" heigth="45" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="45" heigth="45" />
 </p> 
 
 #### OS
