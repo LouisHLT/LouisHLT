@@ -29,8 +29,9 @@ My name is Louis and I'm studying computer development in 1st year at **EPITECH 
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="45" height="45" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="45" heigth="45" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" width="45" heigth="45" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="45" heigth="45" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="45" heigth="45" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" width="45" heigth="45" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" width="45" heigth="45" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="45" heigth="45" />
 </p> 
 
 #### OS
@@ -38,6 +39,7 @@ My name is Louis and I'm studying computer development in 1st year at **EPITECH 
   <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" width="45" heigth="45" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="45" heigth="45" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/fedora/fedora-original.svg" width="45" weigth="45" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redhat/redhat-plain-wordmark.svg" width="45" weigth="45" />
 </p>
 
 #### Softwares
@@ -46,6 +48,7 @@ My name is Louis and I'm studying computer development in 1st year at **EPITECH 
   <img src="https://pngimg.com/uploads/github/github_PNG40.png" width="45" height="45" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" width="45" heigth="45" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg" width="45" heigth="45" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-line-wordmark.svg" width="45" heigth="45" />
 </p>
  
  
