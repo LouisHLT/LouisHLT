@@ -52,7 +52,7 @@ My name is Louis and I'm studying computer development in 1st year at **EPITECH 
 </p>
  
  
- 📈Github stats
+ ## 📈Github stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LouisHLT&theme=dark)](https://git.io/streak-stats)
 
