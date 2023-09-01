@@ -56,7 +56,9 @@ My name is Louis and I'm studying computer development in 1st year at **EPITECH 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LouisHLT&theme=dark)](https://git.io/streak-stats)
 
+<!--
 [![stat1](https://github-readme-stats.vercel.app/api?username=LouisHLT&layout=compact&theme=github_dark&show_icons=true)](https://github.com/LouisHLT/github-readme-stats)
+-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LouisHLT&layout=compact&theme=github_dark&show_icons=true)](https://github.com/LouisHLT/github-readme-stats)
 
