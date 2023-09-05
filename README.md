@@ -47,7 +47,6 @@ My name is Louis and I'm studying computer development at **EPITECH Paris** :
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" width="45" heigth="45" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="45" heigth="45" />
   <img src="https://pngimg.com/uploads/github/github_PNG40.png" width="45" height="45" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" width="45" heigth="45" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg" width="45" heigth="45" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-line-wordmark.svg" width="45" heigth="45" />
 </p>
