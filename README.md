@@ -20,7 +20,6 @@ My name is Louis and I'm studying computer development at **EPITECH Paris** :
  
 - 🖥️: I am passionate about the world of computer science and programming
 - 🔍: I'm trying to stay up-to-date about emerging trends in software development, IT, and other global tech themes
-- 🛠️: I will be in internship at the company [Vinci-Cofiroute 🛣️](https://corporate.vinci-autoroutes.com/fr/presentation/societes-vinci-autoroutes/cofiroute/en-bref) from the beginning of July and for a period of 5 months
 ---
 
 ### 🔧Tools and Technologies
