@@ -50,14 +50,15 @@ My name is Louis and I'm studying computer development at **EPITECH Paris** :
   <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-line-wordmark.svg" width="45" heigth="45" />
 </p>
  
- 
+ <!--
  ## 📈Github stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LouisHLT&theme=dark)](https://git.io/streak-stats)
 
-<!--
+
 [![stat1](https://github-readme-stats.vercel.app/api?username=LouisHLT&layout=compact&theme=github_dark&show_icons=true)](https://github.com/LouisHLT/github-readme-stats)
--->
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LouisHLT&layout=compact&theme=github_dark&show_icons=true)](https://github.com/LouisHLT/github-readme-stats)
 
+-->
