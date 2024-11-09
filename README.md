@@ -18,8 +18,8 @@
 ### About Me 👨‍💻 &nbsp;
 My name is Louis and I'm studying computer development at **EPITECH Paris** : 
 
-- 🎚️: R&D developer at <a href="https://csl.sony.fr/"> Sony CSL Paris </a>. Working on signal treatment and AI training
-- 🖥️: I am passionate about the world of computer science and programming
+- 🎚️: R&D developer at <a href="https://csl.sony.fr/"> Sony CSL Paris </a>. Worked on signal treatment and AI training. Now working Source Seperation Web Apop (spliting of the stems of song).
+- 🖥️ : I am passionate about the world of computer science and about automobiles and motor sports
 - 🔍: I'm trying to stay up-to-date about emerging trends in software development, IT, and other global tech themes
 - 💼: Former intern at <a href="https://www.vinci.com/"> Vinci </a>
   
