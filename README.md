@@ -12,7 +12,7 @@
 ### About Me 👨‍💻 &nbsp;
 My name is Louis and I'm studying computer development at **EPITECH Paris** : 
 
-- 🎚️: Cloud Engineer intern at <a href="https://www.celest.science/"> Celest.Science</a> . Working on AWS Cloud infrastructure, Terraform and CI/CD pipelines.
+- 🎚️: Cloud Engineer intern at <a href="https://www.celest.science/"> Celest.Science</a> . Working on AWS Cloud infrastructure, Terraform(IaC) and CI/CD pipelines.
 <!-- - ⌛ : Looking for Job Opportunities in MotorSpot Engineering. -->
 - 🖥️ : I am passionate about the world of computer science and about automobiles and motor sports.
 - 💼: Former intern at <a href="https://www.vinci.com/"> Vinci </a> and <a href="https://csl.sony.fr/"> Sony CSL Paris</a>.
