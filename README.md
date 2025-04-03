@@ -12,10 +12,10 @@
 ### About Me 👨‍💻 &nbsp;
 My name is Louis and I'm studying computer development at **EPITECH Paris** : 
 
-- 🎚️: R&D intern at <a href="https://csl.sony.fr/"> Sony CSL Paris</a> . Worked on signal treatment and AI training. Currently working on Source Seperation Web App (spliting stems of song).
-- ⌛ : Looking for Job Opportunities in MotorSpot Engineering.
+- 🎚️: Cloud Engineer intern at <a href="https://www.celest.science/"> Celest.Science</a> . Working on AWS Cloud infrastructure, Terraform and CI/CD pipelines.
+<!-- - ⌛ : Looking for Job Opportunities in MotorSpot Engineering. -->
 - 🖥️ : I am passionate about the world of computer science and about automobiles and motor sports.
-- 💼: Former intern at <a href="https://www.vinci.com/"> Vinci </a>
+- 💼: Former intern at <a href="https://www.vinci.com/"> Vinci </a> and <a href="https://csl.sony.fr/"> Sony CSL Paris</a>.
   
 ---
 
